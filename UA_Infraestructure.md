@@ -60,8 +60,9 @@ Contain the basics on ML. The second part is a broad description of ML pipeline.
 * __Under review__: Firebase ML Toolkit
 
 ### Visualization
-* __Ppal__: Google Cloud DataLab
-* __Ppal__: Google Visualization API
+* __to study__: Google Cloud DataLab
+* __to study__: Google Visualization API
+    1. [Charts](https://developers.google.com/chart/interactive/docs/more_charts.html)
 * __Alt to study__: Altair [_notebook collection_](../pyVideosData/06_Visualization/SCI_PLOT_Altair_2018_PyCon-Jake_VanderPlas-Exploratory_Data_Visualization_with_Vega_Vega-Lite_and_Altair/notebooks)
 
 ### Building Deep Learning Model
@@ -85,12 +86,29 @@ Contain the basics on ML. The second part is a broad description of ML pipeline.
 
 ## Standards
 
-#### DataTypes
+#### DataTypes to watch
+- HDFS Hadoop Distributed File System 
 - CSV
 - [HDF5](./01_Numpy/2019_Numerical_Python_2ndE.pdf)
 - pandas.DataFrame
+- 
 
 #### Links
 - [Google DeepMind Team](https://deepmind.com/)
 - [Kaggle Blog](http://blog.kaggle.com) especialized on ML topics
 - About [Netflix Recommendation System Algorithm](http://techblog.netflix.com/2012/04/netflix-recommendations-beyond-5-stars.html)
+- [DataBricks Blog](https://databricks.com/blog)
+- [Numfocus](https://numfocus.org)
+
+#### Interesting Articles
+- [How to organize a Data Science Team](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
+- [Techs for small DataScience Team](https://towardsdatascience.com/everything-a-data-scientist-should-know-about-data-management-6877788c6a42)
+
+### Basic Reading
+- About [Google Cloud Services](https://en.wikipedia.org/wiki/Google_Cloud_Platform)
+- [Google Movil App Platform Firebase](https://en.wikipedia.org/wiki/Firebase)
+
+## Future Knowledge to Investigate
+- Hierarchical Temporal Memory (HTM)
+- Cascade Forests
+- Capsule Networks (CapsNets),...
