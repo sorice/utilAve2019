@@ -70,9 +70,11 @@ Contain the basics on ML. The second part is a broad description of ML pipeline.
 * __Model Visualization__: Tensorboard
 * __Alt to study__: Keras or PyTorch
 
-### Scaling Services
+### Deployment Models
+* __Ppal__: [TensorFlow-server
+* __Utility Apps__: Docker, Kubernetes
 
-(Everything is already scaled on Google Cloud)
+[__Deploying Models into Apps__](./04_ML/2015_Sebastian_Raschka-Py_ML.pdf)
 
 ### Web UI:
 * Angular
@@ -84,14 +86,15 @@ Contain the basics on ML. The second part is a broad description of ML pipeline.
 - Monitoring
     1. [Strategies to managing model robustness](./04_ML/2016_Advanced_ML.pdf)
 
-## Standards
+## Standards & Protocols
 
 #### DataTypes to watch
 - HDFS Hadoop Distributed File System 
 - CSV
 - [HDF5](./01_Numpy/2019_Numerical_Python_2ndE.pdf)
 - pandas.DataFrame
-- 
+
+## Learning Resources
 
 #### Links
 - [Google DeepMind Team](https://deepmind.com/)
@@ -104,11 +107,24 @@ Contain the basics on ML. The second part is a broad description of ML pipeline.
 - [How to organize a Data Science Team](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
 - [Techs for small DataScience Team](https://towardsdatascience.com/everything-a-data-scientist-should-know-about-data-management-6877788c6a42)
 
-### Basic Reading
+#### Basic Reading
 - About [Google Cloud Services](https://en.wikipedia.org/wiki/Google_Cloud_Platform)
 - [Google Movil App Platform Firebase](https://en.wikipedia.org/wiki/Firebase)
 
-## Future Knowledge to Investigate
+### Future Knowledge to Investigate
 - Hierarchical Temporal Memory (HTM)
 - Cascade Forests
 - Capsule Networks (CapsNets),...
+
+#### Events
+
+- TensorFlow Dev SUMMIT
+- Google Cloud Next
+- PyData
+- Europython
+- SciPy
+- PyCon
+
+#### Users to follow on Twitter
+
+
