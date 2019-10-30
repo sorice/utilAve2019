@@ -2,6 +2,16 @@
 
 This document was born when, in the spring of 2017, I was programming the *textsim* python package to calculate similarity distances between 2 string objects. My initial objective was to develop this library having in mind to include my own metrics in spicy package, but at the same time to develop the equations in a way that could be used in jupyter notebooks. As an old sphinx doc developer, and recently a Markdown document developer, I decided to study all the ways in which I had used math equations, and finally test all of them in the 2 most important formats to document my library: *RestructuredText* for sphinx & *Markdown* for jupyter notebooks.
 
+In 2019 I check it again and many things change:
+_sphinx.ext.pngmath_ was deprecated and substituted by _sphinx.ext.imgmath_. The big deal now is to add the imgmath directives in the conf.py to build the automatic documentation with this option, because needs mandatorily of latex.
+
+Prerequisites:
+```bash
+apt install textlive-latex-extra
+```
+
+__Note:__ In my case the ejecution needed anyfontsize.sty which is included in this package.
+
 ### Latex Style
 
 scipy.spatial.distance.jaccard(*u*, *v*)
