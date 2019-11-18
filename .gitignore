@@ -42,8 +42,7 @@ nosetests.xml
 /.tox/*
 
 # Utility Avenue content
-/doc
 /CVs
 /resources
 Arq*
-
+Rates*
